@@ -5,3 +5,13 @@
     padding: 0;
 }
 
+body *{
+    border: 1px solid black;
+    color: #333333;
+}
+
+/*TITLE AND MAIN IMAGE SECTION*/
+
+#graybox{
+    background-color: #EEEEEE;
+}
