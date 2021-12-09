@@ -6,7 +6,6 @@
 }
 
 body *{
-    border: 1px solid black;
     color: #333333;
 }
 
@@ -15,3 +14,14 @@ body *{
 #graybox{
     background-color: #EEEEEE;
 }
+
+/*LINK LINE*/
+
+a, a:link {
+    color: #0000EE;
+  }
+
+a, a:visited{
+    color: #551A8B;
+}
+  
