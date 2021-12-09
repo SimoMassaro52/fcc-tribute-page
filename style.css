@@ -11,7 +11,7 @@ body *{
 
 /*TITLE AND MAIN IMAGE SECTION*/
 
-#graybox{
+.graybox{
     background-color: #EEEEEE;
 }
 
